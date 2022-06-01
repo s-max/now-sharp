@@ -4,7 +4,7 @@
   "description": "Example for now sharp issue",
   "main": "index.js",
   "dependencies": {
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "snekfetch": "^4.0.4"
   },
   "devDependencies": {},
